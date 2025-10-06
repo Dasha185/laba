@@ -5,7 +5,6 @@ class Program
 { 
     static int FindMax(int a, int b)
     {
-        // Возвращаем большее число  
         return a > b ? a : b;
     }
 
